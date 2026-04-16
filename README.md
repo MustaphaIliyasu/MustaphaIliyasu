@@ -43,7 +43,7 @@ Highlights: Simplifies administration and keeps all student information organize
 ![Library Management](images/library_management.png)  
 Description: A system to manage books, track borrow/return, and generate reports.  
 Technologies: Python, SQLite, Tkinter/Flask  
-**GitHub:** [View Project](https://github.com/MustaphaIliyasu/Library-Management-System)  
+GitHub: [View Project](https://github.com/MustaphaIliyasu/python-library-management-system)  
 Highlights: Easy-to-use interface for librarians and efficient record tracking.
 
 ### 5. Monthly Forecasting System
