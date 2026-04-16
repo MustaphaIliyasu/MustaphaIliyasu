@@ -1,5 +1,5 @@
 # Hi, I’m Mustapha Iliyasu 👋
-Aspiring AI & Machine Learning Engineer  
+Aspiring AI & Machine Learning Engineer.  
 
 📧 Email: mustaphailiyasu062@gmail.com  
 🌐 GitHub: [github.com/MustaphaIliyasu](https://github.com/MustaphaIliyasu)  
