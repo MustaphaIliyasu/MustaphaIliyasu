@@ -50,7 +50,7 @@ Highlights: Easy-to-use interface for librarians and efficient record tracking.
 ![Monthly Forecast](images/monthly_forecast.png)  
 Description: Predicts monthly sales or trends using historical data and machine learning.  
 Technologies: Python, Pandas, Scikit-learn, Matplotlib  
-GitHub:  [View Project](https://github.com/MustaphaIliyasu/Monthly-Forecast-System)  
+GitHub:  [View Project](https://github.com/MustaphaIliyasu/Monthly-forcast)  
 Highlights: Generates actionable insights for business planning.
 
 ### 6. African Bank Crisis Model
